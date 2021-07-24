@@ -48,6 +48,9 @@ VPN 试用的形式主要有下面两种：
 
 基于以上这些条件，我向大家推荐 PandaVPN：
 
+![image](https://user-images.githubusercontent.com/87895804/126864434-8aac5f13-727d-4c0d-bf25-376208e41eab.png)
+
+
 试用期时长：3天（新用户下载即可试用，无需绑定任何支付信息）
 退款保证：7天
 试用和订阅之间的差异：无
