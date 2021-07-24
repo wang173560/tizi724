@@ -18,6 +18,9 @@
 
 在这篇文章里我们来谈一谈免费 VPN 试用的方法和窍门，并给大家推荐可以免费试用最靠谱的 VPN
 
+![image](https://user-images.githubusercontent.com/87895804/126864418-f180048c-1b9d-4412-a76c-bdfdd368a12d.png)
+
+
 ### 1. 什么是 VPN 试用？
 就像很多商品可以免费试用一样，不少 VPN 服务商也允许用户免费试用 VPN。
 
