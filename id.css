@@ -1,13 +1,13 @@
 .kanji {
         display: inline-block;
         font-size: 15px;
-        line-height: 15px;
+        line-height: 157px;
         width: 15px;
-        height: 15px;
+        height: 150px;
         position: relative;
         transform-origin: top left;
 }
 
 .empty {
-        background-color: rgba(255, 179, 179)
+        background-color: rgba(205, 179, 179)
 }
